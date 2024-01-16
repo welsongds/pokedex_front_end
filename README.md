@@ -10,7 +10,7 @@ Este projeto foi desenvolvido com HTML, CSS e JavaScritp. Também foi utilizado 
 
 Vou deixar a seguir uma imagem do projeto para facilitar a visualização:
 
-![Alt text](image.png)
+![Imagem do projeto](./img/image.png)
 
 O projeto visa mostrar todos os pokemons da API, diferenciado por um fundo que muda de acordo com seu tipo principal, além de trazer a informação dos tipos que o pokemon é.
 
